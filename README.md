@@ -1,5 +1,15 @@
-# ADD gem 'psych', '< 4' to Gemfile then bundle install
+# Add the following to Gemfile then bundle install
 
+- gem 'psych', '< 4' 
+
+- gem 'psych', '< 4'
+
+- gem 'wdm', '>= 0.1.0'
+
+- gem 'puma'
+
+---------------------------------------------
+ 
 # Sinatra with Active Record: GET Requests
 
 ## Learning Goals
