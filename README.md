@@ -1,3 +1,5 @@
+# ADD gem 'psych', '< 4' to Gemfile then bundle install
+
 # Sinatra with Active Record: GET Requests
 
 ## Learning Goals
